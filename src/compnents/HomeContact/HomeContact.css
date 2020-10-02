@@ -1,0 +1,14 @@
+.contact-form-container {
+  height: 700px;
+  width: 65%;
+  margin: auto;
+  padding-top: 5%;
+}
+
+.contact-form-section {
+  background-image: linear-gradient(#3a4256ce, #3a4256d7),
+    url("https://i.imgur.com/TfUYzAU.png");
+  background-position: cover;
+  background-size: 125%;
+  margin: 5% 0;
+}

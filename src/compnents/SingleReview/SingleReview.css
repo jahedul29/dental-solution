@@ -1,0 +1,11 @@
+.review-img {
+  width: 90%;
+  border-radius: 50%;
+}
+
+.single-review {
+  padding: 2% 7% !important;
+  height: 230px;
+  margin: 0 2%;
+  box-shadow: 0.5px 0.5px 2px gray;
+}

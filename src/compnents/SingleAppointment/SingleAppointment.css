@@ -1,0 +1,6 @@
+.single-appointment {
+  height: 150px;
+  box-shadow: 0.5px 0.5px 2px gray;
+  margin: 3% 5%;
+  padding: 3% 0;
+}
